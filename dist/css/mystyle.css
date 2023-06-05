@@ -1,0 +1,31 @@
+.orderMain {
+    padding:12px;
+    position:relative;
+}
+
+.orderMain >div {
+    display:flex;
+    justify-content: center;
+}
+
+.pointer {cursor: pointer;}
+
+.badge{
+    display:unset;
+    min-width:unset;
+    padding:3px 7px;
+    font-size:11px;
+    font-weight:unset;
+    line-height: unset;
+    color:#fff;
+    text-align:center;
+    white-space: unset;
+    vertical-align: unset;
+    background-color: #bfbfbf;
+    border-radius:50px;
+}
+.content{
+    padding:5px 10px;
+}
+
+
